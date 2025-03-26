@@ -1,4 +1,4 @@
-# LLaMa 3.2:1B Fine-Tu
+# LLaMa 3.2:1B Fine-T
 ### // Python, LLM, Unsloth, Transformers, PEFT, Hugging Face
 
 This project involves fine-tuning the LLaMA 3.2:1B model using Parameter Efficient Fine-Tuning (PEFT) for a specific task. The goal of the project is to adapt a pre-trained LLaMA model to work with a custom dataset, without the need for large amounts of labeled data.
